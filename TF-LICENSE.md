@@ -1,4 +1,4 @@
->  The general license (included below) remains untouched and valid throughout all text, however a **second license exists** for modification and extensive work of the plugin, content that does not belong to any preemptive base of users (other than us), and this policy is instated on work both converging with and seperate from the TotalFreedomMod programme.
+>  The general license (included below) remains untouched and valid throughout all text, however a **second license exists** for modification and extensive work of the plugin, content that does not belong to any preemptive base of users (other than us), and this policy is instated on work both seperate from and converging with the TotalFreedomMod programme.
 
 # TotalFreedom General License #
 _Version 2.0, 27th February 2015_
